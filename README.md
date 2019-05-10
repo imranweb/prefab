@@ -45,6 +45,7 @@ TBD: links to documentation and tutorials
 
 ### Build and run in docker (suggested)
 ```
+> [install docker](https://docs.docker.com/install)
 > cd prefab
 > docker build -t ps/fab .
 ...
